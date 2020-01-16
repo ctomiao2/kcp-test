@@ -1,2 +1,0 @@
-/usr/bin/ar qc libHttpClient.a  CMakeFiles/HttpClient.dir/http_client.cpp.o CMakeFiles/HttpClient.dir/main.cpp.o
-/usr/bin/ranlib libHttpClient.a
